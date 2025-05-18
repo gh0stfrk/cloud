@@ -1,0 +1,13 @@
+{
+  "name": "ec2-report",
+  "version": "1.0.0",
+  "description": "EC2 and Users Report Generator",
+  "main": "ec2_report.js",
+  "scripts": {
+    "start": "node ec2_report.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1483.0",
+    "moment": "^2.29.4"
+  }
+}
